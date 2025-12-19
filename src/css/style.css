@@ -11,5 +11,5 @@ body {
 .mi-foto {
     border: 5px solid darkblue;
     width: 150px;
-    border: 50%;
+    border-radius: 50%;
 }
